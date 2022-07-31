@@ -2,7 +2,7 @@
   "name": "react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://gajraj-shekhawat.github.io/my-app",
+  "homepage": "https://gajraj-shekhawat.github.io/other-learning-stuff",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
